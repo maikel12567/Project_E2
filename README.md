@@ -28,6 +28,6 @@ Blade template
 ## servers 
 
 ## databases
-mysql
+mysql/PHPmyadmin 
 
 ga naar de .env en check of de 
