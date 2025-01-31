@@ -3,12 +3,12 @@
 ## benodigtheden 
 <ul>
   <li>laravel v11 </li>
+  <li>laragon v7.0.4</li>
+  <li>xamp v8.2.12</li>
+  <li>visual studio code v1.96</li>
+  <li>tailwind v4</li>
+  <li>mamp v7</li>
 </ul>
-visual studio code v1.96
-laragon v7.0.4
-xamp v8.2.12
-mamp v7
-tailwind v4
 
 ## programmeertalen
 php v8.4
