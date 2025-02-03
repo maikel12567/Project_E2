@@ -26,9 +26,5 @@
 Blade template 
 tailwind
 
-## servers 
-
 ## databases
 mysql/PHPmyadmin 
-
-ga naar de .env en check of de 
